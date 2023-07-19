@@ -1,0 +1,63 @@
+
+{	
+	"bkcolor1":["41","41","41","255"],
+	"bkcolor2":["41","41","41","255"],
+	"bklinecolor":["41","41","41","255"],
+	"bktabcolor":["41","41","41","255"],
+	"bktabcolor":["41","41","41","255"],
+	"textcolor":["255","255","255","255"],
+	"textselcolor":["255","255","255","255"],
+	"tabheight":"100",
+	"tabbutwidth":"130",
+	"butheight":"110",
+	"butwidth":"130",
+	"tabbkpng":"tabbk.png",
+	"tabbkselpng":"tabbksel.png",
+	"tabbkcurpng":"tabbkcur.png",
+	"tabbkcurselpng":"tabbkcursel.png",
+	"butbkpng":"butbk.png",
+	"butbkselpng":"butbksel.png",
+	
+	"butheight":"100",
+	"but1":["ID_Tool_draw","1","line.png"],
+	"but1":["ID_Tool_drawshap","2","polyline.png"],
+	"but1":["ID_Tool_comment","3","arc.png"],
+	"but1":["ID_Tool_tool","4","freedraw.png"],
+
+	"but2":["1","ID_LINE","Mx_Line","line.png"],
+	"but2":["1","ID_POLYLINE","MxRoom_DrawPLine","polyline.png"],
+	"but2":["1","ID_POINT","Mx_Point","point.png"],
+	"but2":["1","ID_ARC","Mx_Arc","arc.png"],
+	"but2":["1","IDT_FREEDRAW","Mx_DrawFree","freedraw.png"],
+	"but2":["1","IDT_REVCLOUDDRAW","Mx_DrawRevcloud","revcloud.png"],
+
+
+	"but2":["2","ID_RECT","Mx_Rect","rect.png"],
+	"but2":["2","ID_CIRCLE","Mx_Circle","circle.png"],
+	"but2":["2","ID_ELLIPSE","Mx_Ellipse", "ellipse.png"],
+	"but2":["2","ID_POLYGON","MxRoom_DrawPolygon", "polygon.png"],
+	"but2":["2","ID_TEXT","Mx_Text", "text.png"],
+	"but2":["2","ID_MODULE","Mx_Module", "module.png"],
+	
+	
+	
+	"but2":["3","Custom","55","rect.png"],
+	"but2":["3","Custom","-65","rect.png"],
+	
+	"but2":["3","IDT_DIMLINE","Mx_DimLine","dimline.png"],
+	"but2":["3","IDT_DIMRECT","Mx_DimRect","dimrect.png"],
+	"but2":["3","IDT_PHOTO","Mx_Photo","photo.png"],
+	"but2":["3","IDT_AUDIO","Mx_Audio","audio.png"],
+
+
+
+	"but2":["4","IDT_LAYER","Mx_LayerManager","layermanagerico.png"],
+	"but2":["4","IDT_FIND","Mx_FindText","findtext.png"],
+	"but2":["4","IDT_MEASURE","Mx_Measure","distance.png"],
+	"but2":["4","IDT_AREA","Mx_CaleArea","area.png"],
+	"but2":["4","Test","Mx_DrawWall", "module.png"]
+	
+
+}
+
+	

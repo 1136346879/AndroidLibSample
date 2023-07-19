@@ -1,0 +1,57 @@
+
+{	
+	"bkcolor1":["227","227","227","255"],
+	"bkcolor2":["227","227","227","255"],
+	"bklinecolor":["81","179","216","255"],
+	"bktabcolor":["255","255","255","255"],
+	"tabheight":"90",
+	"tabbutwidth":"-1",
+	"butheight":"100",
+	"butwidth":"130",
+	"tabbkpng":"white.png",
+	"tabbkselpng":"gray.png",
+	"tabbkcurpng":"blue.png",
+	"tabbkcurselpng":"middleblue.png",
+	"butbkpng":"gray.png",
+	"butbkselpng":"white.png",
+	
+	"but1":["ID_Tool_draw","1"],
+	"but1":["ID_Tool_comment","2"],
+	"but1":["ID_Tool_tool","3"],
+	
+	
+
+	"but2":["1","ID_LINE","Mx_Line","line.png"],
+	"but2":["1","ID_CIRCLE","Mx_Circle","circle.png"],
+	"but2":["1","ID_POINT","Mx_Point","point.png"],
+	
+
+	"but2":["1","ID_ARC","Mx_Arc","arc.png"],
+	"but2":["1","ID_RECT","Mx_Rect","rect.png"],
+	"but2":["1","ID_ELLIPSE","Mx_Ellipse", "ellipse.png"],
+	"but2":["1","ID_TEXT","Mx_Text", "text.png"],
+	
+	"but2":["2","Custom","55","rect.png"],
+	"but2":["2","Custom","-65","rect.png"],
+	
+	"but2":["2","IDT_PHOTO","Mx_Photo","photo.png"],
+	"but2":["2","IDT_AUDIO","Mx_Audio","audio.png"],
+	"but2":["2","IDT_FREEDRAW","Mx_DrawFree","freedraw.png"],
+	"but2":["2","IDT_REVCLOUDDRAW","Mx_DrawRevcloud","revcloud.png"],
+
+
+
+	"but2":["3","IDT_LAYER","Mx_LayerManager","layermanagerico.png"],
+	"but2":["3","IDT_FIND","Mx_FindText","findtext.png"],
+	"but2":["3","IDT_MEASURE","Mx_Measure","distance.png"],
+	"but2":["3","IDT_AREA","Mx_CaleArea","area.png"],
+	
+	"but2":["3","Test1","Mx_Module","rect.png"],
+	"but2":["3","Test2","Mx_DimLine","rect.png"],
+	"but2":["3","Test3","MxRoom_DrawPLine","rect.png"]
+	
+	
+
+}
+
+	

@@ -1,0 +1,8 @@
+[
+	{"Type":"McDbPoint","position":[200,30]},
+	{"Type":"McDbPoint","position":[100,50,10]},
+	{"Type":"McDbLine","startPoint":[100,50,10],"endPoint":[200,50]},
+	{"Type":"McDbLine","startPoint":[500,50,10],"endPoint":[200,200],"color":[255,100,0],"layer":"mylayer","linetype":"mylinetype","linetypeScale": 2.0},
+	{"Type":"McDbText","position":[200,30],"height":5,"text":"MyTest1"},
+	{"Type":"McDbText","position":[300,30],"height":5,"text":"MyTest2","rotation":0.5,"widthFactor":0.7,"horizontalMode":0,"verticalMode":1,"textStyle":"mytextstyle"}
+]
